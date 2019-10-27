@@ -10,9 +10,9 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{my first custom gem called peotry_view_tool.}
   spec.description   = %q{functionality to display a copyright banner.}
-  spec.homepage      = "..."
+  spec.homepage      = "https://github.com/causebencancode"
 
-  spec.metadata["allowed_push_host"] = "Set to 'http://mygemserver.com'"
+  spec.metadata["allowed_push_host"] = "Set to 'https://github.com/causebencancode'"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "..."
