@@ -10,13 +10,13 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{my first custom gem called poetry_view_tool.}
   spec.description   = %q{functionality to display a copyright banner.}
-  spec.homepage      = "https://github.com/causebencancode/poetry_view_tool"
+  spec.homepage      = "https://github.com/causebencancode/peotry_view_tool"
 
   spec.metadata["allowed_push_host"] = "Set to 'http://mygemserver.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/causebencancode/poetry_view_tool"
-  spec.metadata["changelog_uri"] = "https://github.com/causebencancode/poetry_view_tool"
+  spec.metadata["source_code_uri"] = "https://github.com/causebencancode/peotry_view_tool"
+  spec.metadata["changelog_uri"] = "https://github.com/causebencancode/peotry_view_tool"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
