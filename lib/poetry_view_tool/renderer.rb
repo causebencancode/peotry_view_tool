@@ -1,4 +1,4 @@
-module PeotryViewTool
+module PoetryViewTool
   class Error < StandardError; end
   # Your code goes here...
   class Renderer
