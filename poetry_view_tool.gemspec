@@ -4,7 +4,7 @@ require "poetry_view_tool/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "poetry_view_tool"
-  spec.version       = PeotryViewTool::VERSION
+  spec.version       = PoetryViewTool::VERSION
   spec.authors       = ["Moritz Ben Konschack"]
   spec.email         = ["moritzkonschack@gmail.com"]
 
